@@ -34,4 +34,4 @@ if __name__ == '__main__':
             print("Błąd... spróbuj ponownie")
             continue
 
-
+print("koniec")
